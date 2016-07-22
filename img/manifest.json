@@ -5,17 +5,17 @@
     {
       "src": "thumbnail-batman.png",
       "sizes": "96x96",
-      "type": "img/png"
+      "type": "png"
     },
     {
       "src": "thumbnail-batman.png",
       "sizes": "144x144",
-      "type": "img/png"
+      "type": "png"
     },
     {
       "src": "thumbnail-batman.png",
       "sizes": "192x192",
-      "type": "img/png"
+      "type": "png"
     }
   ],
   "start_url": "/index.html",

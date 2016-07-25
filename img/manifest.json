@@ -21,5 +21,6 @@
   "start_url": "https://kushagragitter.github.io/Ionic2DemoWep/",
   "display": "fullscreen",
   "orientation": "portrait",
-  "theme_color": "aliceblue"
+  "background_color": "#FFFFFF",
+  "theme_color": "#3F51B5"
 }

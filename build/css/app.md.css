@@ -9826,33 +9826,30 @@ ion-menu > ion-content.statusbar-padding:first-child[padding-top] scroll-content
     padding-top: calc(16px + 20px); } }
 
 @font-face {
-  font-family: "Roboto";
+   font-family: "Segoe UI", "Noto Sans", sans-serif;
   font-style: normal;
   font-weight: 300;
   src: local("Roboto Light"), local("Roboto-Light"), url("../fonts/roboto-light.ttf") format("truetype"), url("../fonts/roboto-light.woff") format("woff"); }
 
 @font-face {
-  font-family: "Roboto";
+   font-family: "Segoe UI", "Noto Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   src: local("Roboto"), local("Roboto-Regular"), url("../fonts/roboto-regular.ttf") format("truetype"), url("../fonts/roboto-regular.woff") format("woff"); }
 
 @font-face {
-  font-family: "Roboto";
+  font-family: "Segoe UI", "Noto Sans", sans-serif;
   font-style: normal;
   font-weight: 500;
   src: local("Roboto Medium"), local("Roboto-Medium"), url("../fonts/roboto-medium.ttf") format("truetype"), url("../fonts/roboto-medium.woff") format("woff"); }
 
 @font-face {
-  font-family: "Roboto";
+   font-family: "Segoe UI", "Noto Sans", sans-serif;
   font-style: normal;
   font-weight: 700;
   src: local("Roboto Bold"), local("Roboto-Bold"), url("../fonts/roboto-bold.ttf") format("truetype"), url("../fonts/roboto-bold.woff") format("woff"); }
 
-body {
-  font-family: "Roboto", "Helvetica Neue", sans-serif;
-  font-size: 1.4rem;
-  background-color: #fff; }
+
 
 .card-background-page ion-card {
   position: relative;
